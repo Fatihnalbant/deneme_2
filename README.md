@@ -1,5 +1,7 @@
+
 # deneme_2
 sözcükleri bir listeye yerleştiriniz
 
 
-![The San Juan Mountains are beautiful!](Ekran2.PNG "San Juan Mountains")
+
+![Ekran2](https://user-images.githubusercontent.com/24357954/124029396-c7626600-d9fd-11eb-9942-15c394c9de08.PNG)
